@@ -69,7 +69,7 @@ text: the article text
 
 subject, sentiment, subjectivity: the target labels
 
-Notes on ROCm Usage
+## Notes on ROCm Usage
 Ensure your PyTorch version is compiled with ROCm and that your environment supports AMD GPU acceleration.
 
 ```python
