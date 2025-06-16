@@ -15,7 +15,7 @@ Original tutorial by Venelin Valkov:
 ## Hardware Setup
 
 - GPU: AMD Radeon RX 7900 XTX
-- ROCm: Verified on ROCm 5.x
+- ROCm: Verified on ROCm 6.3.4
 - PyTorch: Built with ROCm backend
 
 ## Dependencies
