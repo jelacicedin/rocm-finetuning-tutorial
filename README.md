@@ -12,6 +12,9 @@ This repository reproduces and extends the tutorial by Venelin Valkov on fine-tu
 Original tutorial by Venelin Valkov:  
 [https://www.youtube.com/watch?v=_KPEoCSKHcU](https://www.youtube.com/watch?v=_KPEoCSKHcU)
 
+## AMD Reference
+Refer to the AMD Docs website:
+[https://rocm.docs.amd.com/en/latest/how-to/rocm-for-ai/fine-tuning/single-gpu-fine-tuning-and-inference.html](https://rocm.docs.amd.com/en/latest/how-to/rocm-for-ai/fine-tuning/single-gpu-fine-tuning-and-inference.html)
 ## Hardware Setup
 
 - GPU: AMD Radeon RX 7900 XTX
